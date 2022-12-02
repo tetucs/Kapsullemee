@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kapsülleme", "Kapsülleme\Kapsülleme.csproj", "{F04BF6C8-9429-49B3-92BD-7228BBDA448D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F04BF6C8-9429-49B3-92BD-7228BBDA448D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04BF6C8-9429-49B3-92BD-7228BBDA448D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04BF6C8-9429-49B3-92BD-7228BBDA448D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04BF6C8-9429-49B3-92BD-7228BBDA448D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8768E6C-8282-44A2-94F1-01F193471701}
+	EndGlobalSection
+EndGlobal
